@@ -2,4 +2,4 @@
 
 Example of Shopping Card created using HTML and CSS.
 
-![example.png](example.png)
+![Example.png](Example.png)
